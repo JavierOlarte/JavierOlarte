@@ -3,39 +3,38 @@
 ### Machine Learning & Data Science
 **Python | Predictive Modeling | Deep Learning | Computer Vision**
 
-I am a Data Science Engineering student focused on building end-to-end
-Machine Learning solutions, from data acquisition and preprocessing to
-model training, evaluation, optimization and explainability.
+I am a Data Science Engineering student focused on building end-to-end Machine Learning solutions, from data acquisition and preprocessing to model training, evaluation, optimization and explainability.
 
-My main interests include predictive modeling, Deep Learning, Computer
-Vision and Explainable AI.
+My main interests include predictive modeling, Deep Learning, Computer Vision and Explainable AI.
 
 ---
 
 ## Featured Projects
 
-### Plant Disease Classification
-**Deep Learning · TensorFlow · EfficientNetB0 · MobileNetV2 · Grad-CAM**
+### [Plant Disease Classification with Deep Learning](https://github.com/JavierOlarte/plant-disease-deep-learning)
 
-Multiclass Computer Vision pipeline for plant disease classification using
-the PlantVillage dataset.
+**TensorFlow · Keras · EfficientNetB0 · MobileNetV2 · Computer Vision**
+
+Multiclass Computer Vision pipeline for plant disease classification using the PlantVillage dataset.
 
 - 15 disease and healthy plant classes
 - 92.7% Test Accuracy
 - 92.9% Macro-F1
 - 0.998 Macro ROC-AUC
 - Approximately 73% reduction in training time compared with the custom CNN baseline
-- Transfer Learning, fine-tuning and Grad-CAM interpretability
+- Transfer Learning and fine-tuning
+- Class-level and confidence-based error analysis
 
 ---
 
-### Breast Cancer Classification
+### [Breast Cancer Classification with Explainable Machine Learning](https://github.com/JavierOlarte/breast-cancer-explainable-ml)
+
 **Scikit-learn · PyCaret · Logistic Regression · SMOTE · SHAP**
 
-Explainable binary classification pipeline using the Wisconsin Diagnostic
-Breast Cancer dataset.
+Explainable binary classification pipeline using the Wisconsin Diagnostic Breast Cancer dataset.
 
 - 97.4% Test Accuracy
+- 97.6% Precision for malignant cases
 - 95.2% Recall for malignant cases
 - 96.4% F1-score
 - Approximately 0.987 ROC-AUC
@@ -44,15 +43,17 @@ Breast Cancer dataset.
 
 ---
 
-### H&M E-commerce Data Acquisition Pipeline
+### [H&M E-commerce Web Scraping and Data Acquisition Pipeline](https://github.com/JavierOlarte/hm-ecommerce-web-scraping)
+
 **Python · Selenium · BeautifulSoup · Requests · Pandas**
 
-Automated web scraping pipeline for collecting and structuring product
-information from an e-commerce website.
+Automated data acquisition pipeline for collecting and structuring product information from an e-commerce website.
 
 - 796 unique products collected
+- 205 men's products
+- 591 women's products
 - Up to 17 attributes per product
-- Browser automation with Selenium
+- Dynamic browser automation with Selenium
 - HTML parsing with BeautifulSoup
 - Structured dataset generation using Pandas
 
@@ -60,25 +61,25 @@ information from an e-commerce website.
 
 ## Technical Stack
 
-**Programming & Data**
+### Programming & Data
 
 `Python` `Pandas` `NumPy` `Jupyter`
 
-**Machine Learning**
+### Machine Learning
 
-`Scikit-learn` `PyCaret` `Classification` `Cross-Validation`
-`Hyperparameter Tuning` `SMOTE`
+`Scikit-learn` `PyCaret` `Classification` `Cross-Validation`  
+`Hyperparameter Tuning` `SMOTE` `Predictive Modeling`
 
-**Deep Learning & Computer Vision**
+### Deep Learning & Computer Vision
 
-`TensorFlow` `Keras` `CNN` `Transfer Learning`
-`EfficientNetB0` `MobileNetV2`
+`TensorFlow` `Keras` `CNN` `Transfer Learning`  
+`EfficientNetB0` `MobileNetV2` `Image Classification`
 
-**Explainable AI**
+### Explainable AI
 
 `SHAP` `Grad-CAM`
 
-**Data Acquisition**
+### Data Acquisition
 
 `Selenium` `BeautifulSoup` `Requests` `Web Scraping`
 
@@ -93,7 +94,6 @@ information from an e-commerce website.
 - Cloud-based Machine Learning
 
 ---
-
 ## Connect with me
 
 - LinkedIn:[Javier Felipe Olarte Páez](https://www.linkedin.com/in/javier-felipe-olarte-paez-ba922627a/)
